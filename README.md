@@ -4,7 +4,7 @@ Source code for Skle, a puzzle game made in [PICO-8](https://www.lexaloffle.com/
 
 Playable on [itch.io](https://vteromero.itch.io/skle)
 
-![Skle cover image](img/cover.png)
+![Skle cover image](img/cover384.png)
 ![Skle gif](img/skle_0.gif)
 
 ### License
